@@ -19,4 +19,4 @@ pip install streamlit pandas matplotlib
 streamlit run app.py
 
 Live Demo
--
+-[Click here to try the app!](https://minidataanalyzer-pz4mjxsgydnx6kggtcrg3gb.streamlit.app)
