@@ -10,7 +10,7 @@ Features
 How to Run Locally
 
 -Clone this repository
-git clone https://github.com/your-username/Mini_Data_Analyzer.git
+https://github.com/shreyaamahajann/mini_data_analyzer.git
 
 -Install the required packages
 pip install streamlit pandas matplotlib
